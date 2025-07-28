@@ -942,7 +942,7 @@ button {
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 575px) {
   section {
     padding: 40px 0;
   }
